@@ -17,11 +17,11 @@
     "ai",
     "llm"
   ],
-  "author": "Your Name",
+  "author": "GFYURI",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/mcp-semantic-memory.git"
+    "url": "https://github.com/GFYURI/mcp-semantic-memory.git"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.4",
