@@ -40,7 +40,7 @@ Claude: *searches memory* "Since you're using Stripe in your e-commerce project.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mcp-semantic-memory.git
+git clone https://github.com/GFYURI/mcp-semantic-memory.git
 cd mcp-semantic-memory
 
 # Install dependencies (pnpm recommended)
@@ -296,4 +296,4 @@ If you find this useful, consider giving it a star! It helps others discover the
 
 **Made with ❤️ for the MCP community**
 
-[Report Bug](https://github.com/yourusername/mcp-semantic-memory/issues) · [Request Feature](https://github.com/yourusername/mcp-semantic-memory/issues)
+[Report Bug](https://github.com/GFYURI/mcp-semantic-memory/issues) · [Request Feature](https://github.com/GFYURI/mcp-semantic-memory/issues)
